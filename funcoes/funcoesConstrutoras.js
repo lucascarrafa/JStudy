@@ -15,7 +15,7 @@ function Carro(velocidademax =200, delta = 5){
     //metodo publico
     this.getVelocidadeAtual = _ => velAtual
 }
-
+ 
 const uno = new Carro
 
 uno.acelerar()
